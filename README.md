@@ -1,4 +1,4 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+_Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
 
 ---
 
@@ -9,19 +9,18 @@ This is a project template for [Svelte](https://svelte.dev) apps. It lives at ht
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit sveltejs/template svelte-app
-cd svelte-app
+npx degit sveltejs/template svelte-todo-app
+cd svelte-todo-app
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
-
+_Note that you will need to have [Node.js](https://nodejs.org) installed._
 
 ## Get started
 
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd svelte-todo-app
 npm install
 ```
 
@@ -32,7 +31,6 @@ npm run dev
 ```
 
 Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
 
 ## Deploying to the web
 
