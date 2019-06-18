@@ -2,7 +2,7 @@ _Psst — looking for a shareable component template? Go here --> [sveltejs/com
 
 ---
 
-# svelte app
+# svelte todo app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
